@@ -38,4 +38,5 @@ void loop() {
 
 ### Result:
 Dark → LED is bright
+
 Bright → LED is dim
